@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\nidbh\\anaconda3\\envs\\TorchPy\\python.exe"
+    "python.pythonPath": "C:\\Users\\nidbh\\anaconda3\\envs\\TorchPy\\python.exe",
+    "git.ignoreLimitWarning": true
 }

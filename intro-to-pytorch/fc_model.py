@@ -69,7 +69,7 @@ def train(model, trainloader, testloader, criterion, optimizer, epochs=5, print_
             steps += 1
             
             # Flatten images into a 784 long vector
-            images.resize_(images.size()[0], 784)
+            images.resize_(images.size()[0], 150528)
             
             optimizer.zero_grad()
             
